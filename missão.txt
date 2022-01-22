@@ -1,0 +1,33 @@
+Estrutura
+
+1ª etapa: Crie uma classe Cozinha e adicione os seguintes atributos:
+● Hora de abertura (Tipo int)
+● Hora de fechamento (Tipo int)
+● Nome da Cozinha (Tipo string)
+● Prato Principal (Tipo string)
+
+2ª etapa: Crie uma nova classe chamada Ingrediente e adicione os seguintes atributos:
+● Nome (Tipo string)
+● Data de Validade (Tipo DateTime)
+
+3ª etapa: Adicione uma lista de Ingredientes na Classe cozinha.
+
+4ª etapa: Crie um método na classe Cozinha que retorne quantos ingredientes possui na Cozinha.
+
+Desafio
+
+5ª etapa: Criar uma instância da classe Cozinha informando os seguintes dados:
+● Nome: Cozinha mineira.
+● Horário de abertura: 14.
+● Horário de fechamento: 20.
+● Prato Principal: Feijoada.
+● Adicione uma lista de ingredientes (Feijão, Farinha, Arroz, Carne de Porco, Linguiça), fique à vontade
+para definir a data de validade de cada um.
+
+6ª etapa: Criar uma instância da classe Cozinha informando os seguintes dados:
+● Nome: Cozinha chinesa.
+● Horário de abertura: 10.
+● Horário de fechamento: 23.
+● Prato Principal: Yakissoba.
+● Adicione uma lista de ingredientes (Champignon, Brócolis, Macarrão , Carne), fique à vontade para
+definir a data de validade de cada um.
