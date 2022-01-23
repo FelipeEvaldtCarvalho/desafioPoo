@@ -30,10 +30,6 @@ class Ingrediente {
 Cozinha.prototype.ingredientes = new Array();
 //Crie um método na classe Cozinha que retorne quantos ingredientes possui na Cozinha
 Cozinha.prototype.retornaQtddIngred = function() {return this.ingredientes.length;} 
-// Metodod para adicionar novos ingredientes
-Cozinha.prototype.addIngredientes = function (ingredientes) {
-    this.ingredientes = ingredientes;
-}
 
 /* ---------------DESAFIO---------------------------*/
 
